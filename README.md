@@ -226,6 +226,7 @@ GOOS=darwin GOARCH=arm64 go build -trimpath --ldflags="-s -w" -o moeCounter
 
 ## 预览
 ![预览图片](public/assets/img/Preview.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2FMoe-Counter-Go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2FMoe-Counter-Go?ref=badge_shield)
 
 ## 感谢
 本项目部分资源基于 [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) 开发
@@ -238,3 +239,7 @@ GOOS=darwin GOARCH=arm64 go build -trimpath --ldflags="-s -w" -o moeCounter
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=skyle1995/Moe-Counter-Go&type=Date" />
  </picture>
 </a>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2FMoe-Counter-Go.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2FMoe-Counter-Go?ref=badge_large)
